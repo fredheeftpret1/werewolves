@@ -1,1 +1,2 @@
-# werewolves
+# Werewolves Game
+## By Finn Rijnhout
